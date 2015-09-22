@@ -1,0 +1,16 @@
+{
+  "name": "lambda-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "dotenv": "^1.2.0",
+    "eslint": "^1.5.0"
+  }
+}
